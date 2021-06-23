@@ -1,0 +1,79 @@
+a{
+    color: wheat;
+}
+
+.navbar {
+    
+    background-color: coral;
+    width: 1530px;
+    height: 60px;
+    text-align: center;
+}
+.body {
+    background-color: cornflowerblue;
+    color: wheat;
+    text-align: center;
+}
+.navbar-list{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    width: 200px;
+    height: 36px;
+    display: inline-block; 
+    padding: 12px;
+}
+.navbar-list:hover {
+    background-color: rgb(177, 107, 28);
+    color: white;
+  }
+.anasayfa {
+    font-family: 'Courier New', Courier, monospace;
+    width: 1500px;
+    height: 1000px;
+    text-align: center;
+}
+.image-index{
+    position:absolute;
+    left: 525px;
+    top: 170px;
+}
+
+
+.image-index-photos {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+label{
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 3px;
+}
+#iletisim{
+    width: 250px;
+    height: 300px;
+}
+button{
+    margin-top: 20px;
+    margin-bottom: 300px;
+    font-size: 25px;
+    background-color: coral;
+    display: block;
+    text-align: center;
+    padding: 20px;
+    margin-left: 690px;
+}
+.footer {
+    
+    background-color: black;
+    width: 1530px;
+    height: 120px;
+    text-align: center;
+}
+.footer-list{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    width: 200px;
+    height: 36px;
+    display: inline-block; 
+    padding: 34px;
+}
